@@ -1,4 +1,4 @@
-var score = {
+let score = {
     checkerror: function (score) {
         if (score < 0) {
             try {
@@ -11,3 +11,4 @@ var score = {
     }
 };
 console.log(score.checkerror(-3));
+//# sourceMappingURL=evalError.js.map

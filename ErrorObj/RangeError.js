@@ -24,3 +24,4 @@ catch (error) {
         console.log(error.message);
     }
 }
+//# sourceMappingURL=RangeError.js.map
